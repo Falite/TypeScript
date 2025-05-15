@@ -1,0 +1,9 @@
+# Ignorer tous les fichiers par défaut
+*
+
+# Ne pas ignorer les fichiers TypeScript et JavaScript
+!*.ts
+!*.js
+
+# Ne pas ignorer le fichier .gitignore lui-même
+!.gitignore
