@@ -145,3 +145,12 @@ type Character = {
     name: string;
     items: Array<T>;
  }      //n'importe quel type peut être passé en paramètre
+
+ //type Partial : propriété optionnelle
+ type PersonnagePartial = Partial<Personnage> //toutes les propriétés de Personnage sont optionnelles
+
+ //type Record : permet de créer un type d'objet avec des clés et des valeurs
+    type PersonnageRecord = Record<string, Personnage>; //clé de type string et valeur de type Personnage
+
+//Exercices Partie 5 :
+
