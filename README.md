@@ -1,5 +1,10 @@
-# TypeScript
-TypeScript courses on OpenClassroom
+<div style='text-align: center;'>
+<a href=README-fr.md>En français 🇫🇷</a>
+</div>
+
+# TypeScript courses 
+
+Main course [here](https://openclassrooms.com/fr/courses/8039116-decouvrez-typescript)
 
 [Exercice Part 3](https://www.typescriptlang.org/play/?#code/PTAEDkFNQWwewCYEsBmTIC9QEcCu0AbaAFwE8AHAQwHNoAVCyAZQGMAnJc4gGlADsScXCwAWmUFQDOoSrlAtE0AFKUAbpVYcuoAIQAoPSlx8WxJHD6hJlUgAlIBAnAAUxSm1rEAXKADeoNDZJYnBKGEgfYI4+al54AVIfYjZ8UABfAEofPlwYACNINj89UFK2SGJcNksAA3tHOFAAEl83DwqAOkDgvjDINN5SIVARNWgWts8O+MhSNNALUCGq0DzKPgBrGRYFY2IOmoBuPTS9BT5g2EhJa1ofPLg4InXQAF4rG3qnZ39u4l7wj4AOQAdTgbAICCBcQssx8AEYAEwAZnSGUOQA)
 
